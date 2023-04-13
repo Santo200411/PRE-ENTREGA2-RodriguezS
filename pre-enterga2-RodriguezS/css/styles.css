@@ -404,6 +404,14 @@ nav{
   justify-items: auto;
   align-items: center;
 }
+
+.main_grid_container40 img{
+  width: 30vw;
+  
+}
+.main_grid_3{
+  grid-template-rows: repeat(3, 30vh);
+}
 .item_avg {
   background-color: #ccc;
 }
